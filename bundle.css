@@ -1,0 +1,12 @@
+.week{
+    display: inline-block;
+    width:40px;
+}
+
+.calendarBody{
+    width:280px;
+}
+.calendarBody span{
+    display: inline-block;
+    width:40px;
+}
